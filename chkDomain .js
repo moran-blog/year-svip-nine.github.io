@@ -1,5 +1,5 @@
 if((/app\.4399\.funnycore/gi).test(navigator.userAgent)){
-	//È¤ºË²»¼ì²âÓòÃû
+	//è¶£æ ¸ä¸æ£€æµ‹åŸŸå
 }else{
 	var blnOur = false;
 	var arrOurDomain = ["http://www.4399.com","http://4399.com","http://www.4399.net","http://4399.net","http://my.4399.com","http://www.3839.com","http://3839.com","http://www2.4399.net","http://4399.somp3.com",".4399.com","http://test.4399.com","http://www.4399er.com"]
@@ -14,6 +14,6 @@ if((/app\.4399\.funnycore/gi).test(navigator.userAgent)){
 	}
 
 	if(!blnOur){
-		alert("4399Ğ¡ÓÎÏ·£¬Íæ¸ü¶àµÄÇëµ½ www.4399.com,»òÕßÔÚ°Ù¶ÈËÑË÷4399½øÈë±¾Õ¾,ÊıÍò¸öºÃÍæµÄÓÎÏ·µÈ×ÅÄãÀ´Íæ!");
+		alert("4399å°æ¸¸æˆ");
 	}
 }
